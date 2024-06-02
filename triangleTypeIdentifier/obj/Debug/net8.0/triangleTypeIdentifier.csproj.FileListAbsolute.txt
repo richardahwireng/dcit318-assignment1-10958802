@@ -1,0 +1,15 @@
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/bin/Debug/net8.0/triangleTypeIdentifier
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/bin/Debug/net8.0/triangleTypeIdentifier.deps.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/bin/Debug/net8.0/triangleTypeIdentifier.runtimeconfig.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/bin/Debug/net8.0/triangleTypeIdentifier.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/bin/Debug/net8.0/triangleTypeIdentifier.pdb
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.AssemblyInfo.cs
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.sourcelink.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/refint/triangleTypeIdentifier.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.pdb
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/triangleTypeIdentifier.genruntimeconfig.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/triangleTypeIdentifier/obj/Debug/net8.0/ref/triangleTypeIdentifier.dll
