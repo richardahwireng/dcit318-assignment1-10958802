@@ -1,0 +1,15 @@
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/bin/Debug/net8.0/gradeCalculator
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/bin/Debug/net8.0/gradeCalculator.deps.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/bin/Debug/net8.0/gradeCalculator.runtimeconfig.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/bin/Debug/net8.0/gradeCalculator.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/bin/Debug/net8.0/gradeCalculator.pdb
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.AssemblyInfoInputs.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.AssemblyInfo.cs
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.sourcelink.json
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/refint/gradeCalculator.dll
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.pdb
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/gradeCalculator.genruntimeconfig.cache
+/Users/user/Desktop/assignment/dcit318-assignment1-10958802/gradeCalculator/obj/Debug/net8.0/ref/gradeCalculator.dll
